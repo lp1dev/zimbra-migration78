@@ -30,3 +30,8 @@ Just fill the informations in the conf.py file
 ## What else ?
 
 Nothing, have fun and please report the bugs you might encounter using this tool on github !
+
+## Todo
+
+- Migrate redirections when migrating Accounts
+- Maybe sexier interface
