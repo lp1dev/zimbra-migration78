@@ -6,7 +6,7 @@ Unnoficial CLI Zimbra Migration Tool using Zimbra's SOAP API and zmprov
 
 You can import accounts (without redirections for the moment, it's on the todolist !) , mailing-lists and aliases from a Zimbra 7-8 (maybe some others ?!) server to another one.
 
-This migration tool is not working like the other one you can find, it is using the SOAP API to get accounts, aliases and mailing-lists and zmprov to recreate them on your new server.
+This migration tool is not working like the other ones you can find, it is using the SOAP API to get accounts, aliases and mailing-lists and zmprov to recreate them on your new server.
 
 ## How to install this ?
 
