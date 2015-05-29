@@ -14,12 +14,12 @@ You must have a version of at least Python 3.3 and Pip with Virtualenv for easie
 
 To install using virtualenv and pip on an Unix-like system use (in the cloned path):
 
-   	   source env/bin/activate
-   	   pip install -r requirements.txt
+	source env/bin/activate
+	pip install -r requirements.txt
 
 Then a simple chmod +x on zimbra-migration.py should make
 
-       	   ./zimbra_migration.py import [accounts|mailing-lists|aliases]
+	./zimbra_migration.py import [accounts|mailing-lists|aliases]
 
 work.
 
